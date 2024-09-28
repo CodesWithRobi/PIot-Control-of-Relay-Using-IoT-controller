@@ -1,6 +1,6 @@
-### NAME: ROBINSON J
-### REG.NO: 212223040170
-### Experiment-02: Control of Relay Using IoT controller
+#### NAME: ROBINSON J
+#### REG.NO: 212223040170
+## Experiment-02: Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
